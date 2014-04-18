@@ -3,8 +3,8 @@ Class 1 {
 	initialFeature {
 
 		initial code ;
-	
-		BUG ;
+		
+		lines of code with no problem ;
 	
 	}
 
