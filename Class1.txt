@@ -3,6 +3,8 @@ Class 1 {
 	initialFeature {
 
 		initial code ;
+		
+		adding code ;
 	
 		BUG ;
 	
