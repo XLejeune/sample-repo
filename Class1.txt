@@ -9,5 +9,11 @@ Class 1 {
 		BUG ;
 	
 	}
+	
+	feature2 {
+	
+		feature-2 code ;
+		
+	}
 
 }
