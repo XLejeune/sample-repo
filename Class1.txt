@@ -6,7 +6,7 @@ Class 1 {
 		
 		adding code ;
 	
-		BUG ;
+		lines of code with no problem ;
 	
 	}
 
