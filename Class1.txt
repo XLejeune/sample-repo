@@ -4,8 +4,6 @@ Class 1 {
 
 		initial code ;
 	
-		BUG ;
-	
 	}
 
 }
