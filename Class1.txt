@@ -9,5 +9,9 @@ Class 1 {
 		BUG ;
 	
 	}
-
+	
+	feature1 {
+		code inside the feature1 ;
+	}
+	
 }
