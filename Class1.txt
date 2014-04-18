@@ -14,6 +14,8 @@ Class 1 {
 	
 		feature-2 code ;
 		
+		more code inside ;
+		
 	}
 
 }
