@@ -23,6 +23,8 @@ Class 1 {
 		things completely different ;
 		
 		some new functions ;
+		
+		still building feature-3 ;
 	
 	}
 	
