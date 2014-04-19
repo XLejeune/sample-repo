@@ -16,6 +16,8 @@ Class 1 {
 		
 		more code inside ;
 		
+		continuing feature-2 after release-1 ;
+		
 	}
 
 }
