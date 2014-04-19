@@ -8,18 +8,23 @@ Class 1 {
 	
 		lines of code with no problem ;
 		
-		correction de petit bugs dans la release-1.0 ;
+		changes before release-1.0 ;
+		
+		bugfix ;
 	
 	}
 	
 	feature1 {
+	
+		bugfix;
+		
 		code inside the feature1 ;
 		
 		more code inside the feature1 ;
 		
 		still more code ;
 		
-		un autre petit correctif de la release-1.0 ;
+		another small change for release-1.0 ;
 	}
 	
 }
