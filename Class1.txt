@@ -1,3 +1,4 @@
+// Release 1.1
 Class 1 {
 
 	initialFeature {
@@ -27,6 +28,28 @@ Class 1 {
 		another small change for release-1.0 ;
 		
 		last changes before release-1.0 ;
+	}
+	
+	feature2 {
+	
+		feature-2 code ;
+		
+		more code inside ;
+		
+		continuing feature-2 after release-1 ;
+		
+	}
+
+	feature3 {
+	
+		things completely different ;
+		
+		some new functions ;
+		
+		still building feature-3 ;
+		
+		last things before starting the release-1.1 ;
+	
 	}
 	
 }
