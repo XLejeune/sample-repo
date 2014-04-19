@@ -25,6 +25,8 @@ Class 1 {
 		still more code ;
 		
 		another small change for release-1.0 ;
+		
+		last changes before release-1.0 ;
 	}
 	
 }
