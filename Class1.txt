@@ -7,15 +7,26 @@ Class 1 {
 		adding code ;
 	
 		lines of code with no problem ;
+		
+		changes before release-1.0 ;
+		
+		bugfix ;
 	
 	}
 	
 	feature1 {
+	
+		bugfix;
+		
 		code inside the feature1 ;
 		
 		more code inside the feature1 ;
 		
 		still more code ;
+		
+		another small change for release-1.0 ;
+		
+		last changes before release-1.0 ;
 	}
 	
 }
