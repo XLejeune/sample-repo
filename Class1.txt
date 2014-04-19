@@ -18,4 +18,12 @@ Class 1 {
 		still more code ;
 	}
 	
+	feature3 {
+	
+		things completely different ;
+		
+		some new functions ;
+	
+	}
+	
 }
