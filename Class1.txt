@@ -29,4 +29,14 @@ Class 1 {
 		last changes before release-1.0 ;
 	}
 	
+	feature2 {
+	
+		feature-2 code ;
+		
+		more code inside ;
+		
+		continuing feature-2 after release-1 ;
+		
+	}
+
 }
