@@ -25,6 +25,8 @@ Class 1 {
 		some new functions ;
 		
 		still building feature-3 ;
+		
+		last things before starting the release-1.2 ;
 	
 	}
 	
