@@ -39,4 +39,16 @@ Class 1 {
 		
 	}
 
+	feature3 {
+	
+		things completely different ;
+		
+		some new functions ;
+		
+		still building feature-3 ;
+		
+		last things before starting the release-1.1 ;
+	
+	}
+	
 }
