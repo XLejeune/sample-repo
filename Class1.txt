@@ -7,6 +7,8 @@ Class 1 {
 		adding code ;
 	
 		lines of code with no problem ;
+		
+		correction de petit bugs dans la release-1.0 ;
 	
 	}
 	
@@ -16,6 +18,8 @@ Class 1 {
 		more code inside the feature1 ;
 		
 		still more code ;
+		
+		un autre petit correctif de la release-1.0 ;
 	}
 	
 }
