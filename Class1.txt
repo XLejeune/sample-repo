@@ -9,5 +9,13 @@ Class 1 {
 		lines of code with no problem ;
 	
 	}
-
+	
+	feature1 {
+		code inside the feature1 ;
+		
+		more code inside the feature1 ;
+		
+		still more code ;
+	}
+	
 }
