@@ -54,4 +54,11 @@ Class 1 {
 	
 	}
 	
+	feature4 {
+		
+		fantastic feature ;
+		lots of code ;
+		
+	}
+	
 }
