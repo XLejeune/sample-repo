@@ -58,6 +58,7 @@ Class 1 {
 		
 		fantastic feature ;
 		lots of code ;
+		small corrections for 1.2 ;
 		
 	}
 	
