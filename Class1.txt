@@ -12,6 +12,8 @@ Class 1 {
 		changes before release-1.0 ;
 		
 		bugfix ;
+		
+		little change in develop ;
 	
 	}
 	
